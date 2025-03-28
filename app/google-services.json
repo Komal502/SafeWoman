@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "760570312391",
+    "firebase_url": "https://safewoman-d157d-default-rtdb.firebaseio.com",
+    "project_id": "safewoman-d157d",
+    "storage_bucket": "safewoman-d157d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760570312391:android:6b00af27817b48b1c430e2",
+        "android_client_info": {
+          "package_name": "com.example.safewoman"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbMOHMBiKTTZC492ZFvzSm5oqOqZ_6mtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

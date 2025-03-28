@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home"
+    android:title="Home"
+    android:iconTint="@color/white"
+    android:titleTextColor="@color/white" /> <!-- Title text color -->
+
+    <item
+        android:id="@+id/map"
+        android:icon="@drawable/ic_map"
+        android:title="Map"
+        android:iconTint="@color/white"
+        android:titleTextColor="@color/white" />
+
+    <item
+        android:id="@+id/community"
+        android:icon="@drawable/ic_communiy"
+        android:title="Community"
+        android:iconTint="@color/white"
+        android:titleTextColor="@color/white" />
+
+    <item
+        android:id="@+id/criminals"
+        android:icon="@drawable/ic_criminal"
+        android:title="Criminals"
+        android:iconTint="@color/white"
+        android:titleTextColor="@color/white" />
+</menu>

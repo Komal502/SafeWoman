@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_about"
+            android:title="About"
+            android:icon="@drawable/baseline_assistant_24"
+            android:titleTextAppearance="@style/MenuTextStyle" />
+
+        <item
+            android:id="@+id/nav_settings"
+            android:title="Settings"
+            android:icon="@drawable/baseline_app_settings_alt_24"
+            android:titleTextAppearance="@style/MenuTextStyle" />
+
+        <item
+            android:id="@+id/nav_logout"
+            android:title="Logout"
+            android:icon="@drawable/logout_24px"
+            android:titleTextAppearance="@style/MenuTextStyle" />
+    </group>
+
+</menu>

@@ -1,0 +1,7 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient
+        android:startColor="#FF4081"
+        android:endColor="#FF5722"
+        android:angle="50" /> <!-- Gradient color effect -->
+    <corners android:radius="@dimen/_50sdp"/> <!-- Keep the curve radius -->
+</shape>
